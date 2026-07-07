@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CCTV Detector</string>
+    <string name="permission_rationale">Camera access is needed to scan your surroundings for visible security cameras.</string>
+    <string name="permission_denied">Camera permission denied. Enable it in Settings to use this app.</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.CCTVDetector" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#00E5A0</item>
+        <item name="colorPrimaryVariant">#00B380</item>
+        <item name="android:windowBackground">#000000</item>
+    </style>
+</resources>
